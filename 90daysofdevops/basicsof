@@ -1,0 +1,13 @@
+#!/bin/bash
+echo "hello dishant"
+
+
+echo "what is your name"
+read name
+if [[ $name == "dishant" ]]; then
+#echo "your name is :$name"
+echo "my name is $name"
+else
+echo "incorrect name"
+fi
+
