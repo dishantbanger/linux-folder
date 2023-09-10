@@ -1,0 +1,6 @@
+# HSTS 1.0 Known Hosts database for GNU Wget.
+# Edit at your own risk.
+# <hostname>	<port>	<incl. subdomains>	<created>	<max-age>
+pkg.jenkins.io	0	0	1688563413	300
+update.code.visualstudio.com	0	0	1692679837	31536000
+apt.releases.hashicorp.com	0	1	1694263754	31536000

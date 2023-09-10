@@ -1,0 +1,13 @@
+2023-06-12 17:34:48.951 [info] 
+
+
+
+
+2023-06-12 17:34:48.951 [info] Extension host agent started.
+2023-06-12 17:34:48.966 [info] Started initializing default profile extensions in extensions installation folder. file:///home/ubantu/.vscode-server/extensions
+2023-06-12 17:34:49.282 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/ubantu/.vscode-server/extensions
+2023-06-12 17:34:53.258 [info] [127.0.0.1][81b9449c][ManagementConnection] New connection established.
+2023-06-12 17:34:53.370 [info] [127.0.0.1][8910b950][ExtensionHostConnection] New connection established.
+2023-06-12 17:34:53.549 [info] [127.0.0.1][8910b950][ExtensionHostConnection] <523> Launched Extension Host Process.
+2023-06-12 17:35:59.580 [info] [127.0.0.1][81b9449c][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-06-12 17:35:59.635 [info] [127.0.0.1][8910b950][ExtensionHostConnection] <523> Extension Host Process exited with code: 0, signal: null.
